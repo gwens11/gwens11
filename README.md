@@ -9,5 +9,4 @@ Survey Science Group member at Kavli Institute of Cosmological Physics <br>
 - 🌱 I’m currently learning conditional normalizing flows
 - 💬 Ask me about what color math should be
 - 📫 How to reach me: gwens11@uchicago.edu
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have been playing guitar for 14 years!
