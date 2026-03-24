@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 University of Chicago Undergraduate <br>
-Majors: Astrophysics, Computational & Applied Mathematics <br>
+Majors: Astrophysics<br>
 Survey Science Group member at Kavli Institute of Cosmological Physics <br>
 
 
@@ -9,4 +9,4 @@ Survey Science Group member at Kavli Institute of Cosmological Physics <br>
 - 🌱 I’m currently learning conditional normalizing flows
 - 💬 Ask me about what color math should be
 - 📫 How to reach me: gwens11@uchicago.edu
-- ⚡ Fun fact: I have been playing guitar for 14 years!
+- ⚡ Fun fact: I have been playing guitar for 15 years!
